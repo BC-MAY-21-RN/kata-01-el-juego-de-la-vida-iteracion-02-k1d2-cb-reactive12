@@ -1,0 +1,24 @@
+{
+  "name": "kata-01-el-juego-de-la-vida-iteracion-02-k1d2-cb-reactive12",
+  "version": "1.0.0",
+  "description": "kata02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-iteracion-02-k1d2-cb-reactive12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-iteracion-02-k1d2-cb-reactive12/issues"
+  },
+  "homepage": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-iteracion-02-k1d2-cb-reactive12#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "install": "^0.13.0",
+    "npm": "^8.16.0"
+  }
+}
